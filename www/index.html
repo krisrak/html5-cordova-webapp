@@ -52,7 +52,6 @@
             });
             
             iab.addEventListener('loadstart', function(obj){
-                console.log(obj.url)
                 if(navigator.network.connection.type == Connection.NONE){
                     navigator.notification.alert("Internet connection was not detected, check your connection and retry", null, "No Internet");   
                 }
