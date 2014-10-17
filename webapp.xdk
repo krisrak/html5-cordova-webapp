@@ -34,14 +34,14 @@
     "cordovaPlugins": [
       {
         "id": "org.apache.cordova.device",
-        "version": "0.2.5",
+        "version": "0.2.9",
         "selectedState": "Auto",
         "data": {},
         "paramvals": {}
       },
       {
         "id": "org.apache.cordova.splashscreen",
-        "version": "0.2.5",
+        "version": "0.3.0",
         "selectedState": "Auto",
         "data": {},
         "paramvals": {}
@@ -55,14 +55,14 @@
       },
       {
         "id": "org.apache.cordova.inappbrowser",
-        "version": "0.3.0",
+        "version": "0.4.0",
         "selectedState": "Included",
         "data": {},
         "paramvals": {}
       },
       {
         "id": "org.apache.cordova.dialogs",
-        "version": "0.2.5",
+        "version": "0.2.6",
         "selectedState": "Included",
         "data": {},
         "paramvals": {}
@@ -86,7 +86,7 @@
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "cordovaCLIVersion_": "3.3",
+        "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.1",
         "appDescription_": "",
@@ -110,7 +110,7 @@
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "cordovaCLIVersion_": "3.3",
+        "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.1",
         "appDescription_": "",
@@ -134,7 +134,7 @@
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "cordovaCLIVersion_": "3.3",
+        "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.1",
         "appDescription_": ""
@@ -156,7 +156,7 @@
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "cordovaCLIVersion_": "3.3",
+        "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "0.0.0.1",
         "appDescription_": ""
@@ -175,7 +175,7 @@
         "iosProvs_": [],
         "addlPermissions_": "",
         "excludedLibraries_": "",
-        "cordovaCLIVersion_": "3.3",
+        "cordovaCLIVersion_": "3.5",
         "crosswalkVersion_": "stable",
         "appVersion_": "1.0.0.0"
       }
