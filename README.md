@@ -10,7 +10,7 @@ This Cordova App template has all the necessary checks to make sure internet con
 App Template Features:
 -
 - Loads any website in app
-- Displays warning with "Retry" button when no internet connection deteted
+- Displays warning with "Retry" button when no internet connection detected
 - Loads complete website in background before displaying
 - Prevents loading "Page not found" when connection is lost during browsing
 
