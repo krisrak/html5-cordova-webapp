@@ -12,6 +12,7 @@ App Template Features:
 - Loads any website in app
 - Displays warning with "Retry" button when no internet connection detected
 - Loads complete website in background before displaying
+- Shows loading splash page while website is loading in background
 - Prevents loading "Page not found" when connection is lost during browsing
 
 
